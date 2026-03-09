@@ -1,0 +1,17 @@
+{
+  "name": "FieldCore — DG Drywall",
+  "short_name": "FieldCore",
+  "description": "Time & Material management for DG Drywall & Construction Inc.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

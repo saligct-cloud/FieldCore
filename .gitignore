@@ -1,0 +1,15 @@
+# env files — never commit secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# local dev tooling
+.claude/
+.mcp.json
+package-lock.json
+
+# T&M reference PDF (internal doc)
+T&M Sheet.pdf
